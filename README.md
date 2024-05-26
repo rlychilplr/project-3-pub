@@ -4,15 +4,15 @@ dit is het 3e project van het eerste schooljaar op het [tcr](https://www.technie
 
 ## Team: chans
 
-niet publiek zichtbaar [Trello](https://trello.com/b/wGUGhuH0/scrum-board)
+het team bestond uit: mij (Sander), Chaymae en Nathan
+
+[Trello](https://trello.com/b/wGUGhuH0/scrum-board) niet publiek zichtbaar 
 
 ### CheatSheat
 
 [quickref.me](https://quickref.me/javascript)
 
 [convert between color formats](https://www.w3schools.com/colors/colors_converter.asp)
-
-[sitemap](https://imgs.search.brave.com/UvsebMHoTFN0Vce2h9YyhmcZotkAZCZiryL3NuSvaRs/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cXVpY2tzcHJvdXQu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy8y/MDE5LzAxL3dlYnNp/dGUtc2l0ZW1hcC10/ZW1wbGF0ZS5wbmc)
 
 ## color palet
 
