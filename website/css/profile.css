@@ -1,0 +1,205 @@
+
+body{
+    background-color: #f0f0f0;
+}
+
+
+
+
+
+.profile, .profilemiddelleft  {
+    margin: 70px;
+    padding: 20px;
+    right:70px;
+    display:flex;
+    flex-direction: column;
+    border-radius: 30px;
+    content:"";
+    display:table;
+    clear: both;
+    position: relative;
+    min-height: 20vh;
+    border: solid black;
+    background-color: lightgreen;
+}
+
+
+.profilemiddel{
+    position: relative;
+    min-height: 100vh;
+}
+
+
+.middeltext{
+    bottom:50px;
+    right: 20px;;
+    margin:30px;
+    border:solid black;
+    padding:70px;
+    font-size:20px;
+    background-color: lightgreen;
+}
+
+.profileright{
+    width: 95vw;
+}
+
+
+.righttext{
+    text-align: right;   
+}
+
+.centerleft-logo-profile{
+display: block;
+width:20%;
+padding:30px;
+transform: translateY(70%);
+}
+
+.button{
+    margin:60px;
+    padding:40px;
+    float:left;
+    width: 30%;
+    border: solid black;
+    text-align: center;
+    font-size: 30px;
+    background-color:lightgreen; 
+    border-radius: 40px;  
+}
+
+.recently{
+    padding:10px;
+    margin-bottom: 40px;
+    margin-left:90px;   
+}
+
+.middleButton{
+list-style: none;
+padding:10px;
+display: flex;
+justify-content: center;
+margin:10px;
+}
+
+.follow{
+    font-size:25px;
+    margin:20px;
+    padding: 18px;
+    border: 5px solid blue;
+    border-radius: 40px;
+    background-color: blue;
+    color: #f0f0f0;
+    cursor: pointer;
+}
+
+
+.rightButton{
+    border: solid black;  
+    justify-content: flex-end;
+    align-items: center;  
+    list-style: none;
+    display:flex;
+    background-color: lightgreen;
+    margin: 190px;
+    padding: 30px;
+    border-radius: 20px;
+}
+
+.right{
+    border-radius: 5px;
+    font-size:30px;
+    margin-right: 30px;
+    text-align: center;
+}
+
+.profilebottomright{
+    transform: translateX(90%);
+    position: relative;
+    height:35vw;
+    top:-600px;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    border-radius: 30px;
+    margin-right:20px;
+    border: solid black;
+    background-color: lightgreen;
+    text-align: center;
+    padding:5px
+}
+
+.buttonbottomright{
+    margin:2px;
+    margin-bottom:30px;
+    margin-right:90px;
+    list-style: none;
+    display: flex;
+     width: 60%;
+    padding: 5px;
+    border: 5px solid blue;
+    border-radius: 25px;
+    background-color: blue;
+    color: #f0f0f0;
+    cursor: pointer;
+}
+
+.buttonbottom{
+margin-right:100px;
+font-size:28px;
+}
+
+.recently, .right{
+    width: 60%;
+    padding: 5px;
+    border: 5px solid blue;
+    border-radius: 25px;
+    background-color: blue;
+    color: #f0f0f0;
+    cursor: pointer;
+    }
+
+
+.bottomtext{
+    margin: 5px;
+    padding: -10px;
+    align-items: right;
+    min-height: 30vh;
+    margin-left:30px;
+    right:0;
+    margin-right:80px;
+}
+
+.fotoright{
+    display: flex;
+    justify-content: flex-end;
+    top:20px;
+    padding:80px;
+    width: 50%;
+    position: absolute;
+    right:0;
+    transform:translateX(-20%);
+}
+
+.foto-top-right{
+    width:120px;
+    top:50px;
+    transform:translateY(-150%)
+}
+
+.middelleft{
+width: 160px;
+height:auto;
+margin-right:40px;
+transform:translateY(30%)
+
+}
+
+.username{
+  transform: translateY(150px);
+}
+
+
+
+       

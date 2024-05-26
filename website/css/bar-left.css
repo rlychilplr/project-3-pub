@@ -1,0 +1,54 @@
+.bar-left {
+    width: 25vw;
+    overflow: auto;
+}
+
+.bar-left div button:nth-child(1) {
+    margin-top: 5%;
+}
+
+.bar-left div button {
+    width: 250px;
+    padding: 6px 30px 6px 30px;
+    border: 2px solid #1f2833;
+    border-radius: 12px;
+    background-color: #1f2833;
+    color: #66fcf1;
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.sidebar-user-photo{
+    width: 4vw;
+    overflow: hidden;
+    padding: 2.5% 0;
+    border: 2px solid black;
+    border-radius: 50%;
+    object-fit: cover;
+}
+
+.my-profile-preview{
+    width: 10vw;
+}
+
+.username{
+    margin-block-start: 3%;
+    margin-block-end: 2%;
+}
+
+.current-user{
+    margin-top: 5vh;
+}
+
+/* rename this class and also change it in bar-left.php */
+.newest-users-per{
+    margin: 0.2vh 0;
+}
+hr{
+    background-color: #1f2833;
+    height:2px;
+    
+}

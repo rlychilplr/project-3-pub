@@ -1,0 +1,42 @@
+.footer-container{
+    align-items: center;
+    position: relative;
+    bottom: 0;
+    flex-shrink: 0;
+    width: 100vw;
+}
+
+.footer-logo{
+    width: 150px;
+}
+
+.footer-nav{
+    /* border: 1px solid blue; */
+    width: 40vw;
+    min-width: 500px;
+    height: 50px;
+    background-color:#1f2833;
+    border-radius: 12PX;
+   
+}
+
+@media (min-width: 2000px){
+    .footer-nav{
+        min-width: 1000px;
+    }
+}
+
+.footer-nav ul li{
+    margin: 0 1.8vw;
+}
+
+.footer-nav ul li a{
+    color:#66fcf1;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.whitespace-footer{
+    width: 30.8vw;
+}

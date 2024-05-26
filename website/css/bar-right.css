@@ -1,0 +1,27 @@
+.bar-right{
+    width: 30vw;
+    /* border: 1px solid orange; */
+    overflow: auto;
+}
+
+.bar-right div button:nth-child(1) {
+    margin-top: 20%;
+}
+
+.bar-right div button {
+    padding: 5px;
+    border: 5px solid blue;
+    border-radius: 25px;
+    background-color: blue;
+    color: #f0f0f0;
+    margin-top: 3vh;
+    margin-left: 5%;
+    margin-right: 5%;
+    font-size: 2em;
+    cursor: pointer;
+}
+
+.right-bar-logo{
+    width: 24vw;
+    margin-left: 1.7%;
+}
