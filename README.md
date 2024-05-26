@@ -1,12 +1,10 @@
 # project-3
 
-dit is het 3e project van het eerste schooljaar op tcr
+dit is het 3e project van het eerste schooljaar op het [tcr](https://www.techniekcollegerotterdam.nl/)
 
 ## Team: chans
 
-niet publiek zichtbaar
-
-[Trello](https://trello.com/b/wGUGhuH0/scrum-board)
+niet publiek zichtbaar [Trello](https://trello.com/b/wGUGhuH0/scrum-board)
 
 ### CheatSheat
 
